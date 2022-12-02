@@ -30,6 +30,6 @@ Dasariraju Deepak
                               
                                                 Contact-nikhilgodavarthi9@gmail.com
 
-whole project using Html and css file is here: https://github.com/SaiNikhil0904/Web-Programming-Project-with-Html-and-css
+whole project using HTML and CSS file is here: https://github.com/SaiNikhil0904/Web-Programming-Project-with-Html-and-css
 
-whole project using json and js file is here: https://github.com/SaiNikhil0904/web-programming-project-with-json-and-js
+whole project using JSON and JS file is here: https://github.com/SaiNikhil0904/web-programming-project-with-json-and-js
