@@ -1,0 +1,57 @@
+{
+    "av":[{
+        "link":"Home"},
+        {
+            "link":"Featured"},     
+        {
+            "link":"Arrivals"
+            }, 
+            
+        {
+            "link":"About"
+            },
+        {
+            "link":"Contact"
+                }],
+    "book":"/public/image/book--6.jpeg",
+    "schoo":"Gandhi: An Autobiography",
+    "pic":"/public/image/star0.png",
+    "Old Price": "Old Price:",
+    "Old Price1":"₹199.00",
+    "New Price":"New Price:₹109.00(45%)",
+    "About This Item1":"About This Item :",
+    "About This Item": "The Book Is More About The Experiments Of Gandhi With Truth And His Satyagraha Movement, Which Literally Means Demanding The Truth And Nothing Else. This Is The Very Idea That Helped Him To Fight Against Racism, Violence And Colonialism.", 
+    "About This Item2":"All Of This Eventually Helped Him To Achieve His Dream Of An Independent India. Gandhi Mentions His Numerous Experiments, Starting From His Elocution Training To Putting An End To His Fear And Shyness Towards Public Speaking.",   
+    "Language": "Language:English",
+    "Paperback": "Paperback:448 Pages",
+    "Available": "Available:In Stock",
+    "Item Weight": "300g",
+    "Dimensions": "20.3 X 25.4 X 4.7 Cm",
+    "Shipping Area": "All Over The India",
+    "Shipping Fee": "Free",
+    "depts": [{
+        "electives":["Language: English",
+        "Paperback: 448 Pages",
+        "Available: In Stock",
+        "Item Weight: 300g",
+        "Dimensions: 20.3 X 25.4 X 4.7 Cm",
+        "Shipping Area: All Over The India",
+        "Shipping Fee: Free"]
+        }],
+    "btn2":"Buy Now",
+    "depts1": [{
+        "type":"Quick Links",
+        "electives":["Home", "Featured", "Arrivals","About","Contact"]
+        },
+        {
+        "type":"Extra Links",
+        "electives":["Account Info", "Ordered Items", "Privacy Policy", "Payment Method","Our Serivces"]
+        },
+        {
+        "type":"Contact Info",
+        "electives":["+91 80085 28123","+91 73961 48439","godavarthisai.nikhil.21cse@bmu.edu.in","Delhi, India - 110012"]
+        },{
+        "type":"Follow Us",
+        "electives":["Facebook","Twitter","Instagram","Linked In"]
+        }]
+}

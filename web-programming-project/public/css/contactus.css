@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.contmainbg{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contbackgrnd{
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+}
+.contbg1{
+    flex: 1;
+    background-color:#2BAE66FF;
+}
+.contbg2{
+    flex: 1;
+    background-color: #2BAE66FF;
+}
+
+.smallbox{
+    width: 400px;
+    height: 450px;
+    background:url(/image/Contact.jpg) ;
+    /* background-color: aliceblue; */
+    background-size: cover;
+
+    background-position: top;
+    margin-top: 50px;
+    border-radius: 5px;
+    position: absolute;
+    /* display: inline-block; */
+    right: 30px;
+
+    
+}
+
+.smallbox h2{
+    color: black;
+    text-align: center;
+    
+}
+.smallbox h2::after{
+    content: "";
+    width: 100px;
+    height: 3px;
+    background-color: black;
+    border-radius: 30px;
+    display: block;
+    margin-left: 150px;
+    margin-top: 3px;
+}
+
+.fa-sharp{
+    font-size: 40px;
+    margin-top: 43px; 
+    text-decoration: none;
+    color: black;
+     margin-left: 1450px; 
+} 
+.fa-sharp:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
+
+.contabout-container{
+    width: 70%;
+    min-height: 100px;
+    position: absolute;
+    
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 15px 15px 15px rgba(0, 118, 0, 0.408);
+}
+
+.conttext-container h1{
+    font-size: 30px;
+    padding: px 0px;
+    color: darkblue;
+    margin-left: 100px;
+}
+.conttext-container h1::after{
+    content: "";
+    width: 200px;
+    height: 3px;
+    background-color: #05386B;
+    border-radius: 30px;
+    display: block;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.conttext-container p{
+    font-size: 20px;
+    padding: 10px 0px;
+}
+
+.formbox{
+    width: 600px;
+    height: 450px;
+    margin-top: 20px;
+    background-color: white;
+    margin-left: 100px;
+}
+.submiticon{
+    background-color: #05386B;
+    width: 180px;
+    height: 40px;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    margin-left: 120px;
+}
+.submiticon:hover{
+    background-color: white;
+    color: #05386B;
+    border: 2px solid #05386B;
+    cursor: pointer;
+}
+.simplebox{
+    margin-top: 10px;
+    margin-left: 20px;
+}
