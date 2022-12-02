@@ -1,6 +1,6 @@
 # web-programming-project
 
-                                                This is the final Website.
+                                             This is the final Website.
 
 
 For my Web Programming Project. I have Created a Online Book Store named as "Galore".
@@ -8,14 +8,14 @@ For my Web Programming Project. I have Created a Online Book Store named as "Gal
 
 
 
-                                                 This is the Home page of our Website.
+                                             This is the Home page of our Website.
                                                  
                                                  
 ![image](https://user-images.githubusercontent.com/98106917/205303171-1a491c56-7833-4257-9ca5-8af75bd7da46.png)
 
 
 
-                                                         This is About us.
+                                                   This is About us.
 
 
 We had successfully completed our website under the guidence of Dr. Kiran Khatter.
@@ -28,7 +28,7 @@ Suresh Raj Velumuri
 Dasariraju Deepak
                               
                               
-                                                      Contact-nikhilgodavarthi9@gmail.com
+                                                Contact-nikhilgodavarthi9@gmail.com
 
 whole project using Html and css file is here: https://github.com/SaiNikhil0904/Web-Programming-Project-with-Html-and-css
 
