@@ -26,7 +26,7 @@ Suresh Raj Velumuri
 Dasariraju Deepak
                               
                               
-                         Contact-nikhilgodavarthi9@gmail.com
+                                             Contact-nikhilgodavarthi9@gmail.com
 
 whole project using HTML and CSS file is here: https://github.com/SaiNikhil0904/Web-Programming-Project-with-Html-and-css
 
