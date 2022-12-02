@@ -15,7 +15,7 @@ For my Web Programming Project. I have Created a Online Book Store named as "Gal
 
 
 
-                                                   This is About us.
+                                                     This is About us.
 
 
 We had successfully completed our website under the guidence of Dr. Kiran Khatter.
