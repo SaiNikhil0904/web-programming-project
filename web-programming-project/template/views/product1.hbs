@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Product Description Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="product.css">
+   <!-- For font awesome cdn link -->
+   <script src="https://kit.fontawesome.com/cc9cc1a515.js" crossorigin="anonymous"></script>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+</head>
+  <body>
+
+    
+{{>header}}
+
+    
+    <div class = "card-wrapper container">
+      <div class = "card container">
+
+        <div class = "product-imgs container">
+            <div class = "img-showcase">
+              <img src = "/image/book--1.jpeg" height="700px" alt = "">
+          </div>
+        </div>
+
+
+        <div class = "product-content container">
+          <h2 class = "product-title">A Tale of Two Cities</h2>
+          <div class = "product-rating">
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star"></i>
+            <i class = "fas fa-star-half-alt"></i>
+            <span>4.5(21)</span>
+          </div>
+
+          <div class = "product-price">
+            <p class = "last-price">Old Price: <span>₹400.00</span></p>
+            <p class = "new-price">New Price: <span>₹245.00 (39%)</span></p>
+          </div>
+
+          <div class = "product-detail">
+            <h2>about this item: </h2>
+            <p>Charles Dickens (7th Feb 1812 - 9th June 1870) was an English writer and social critic. He is regarded as the greater novelist of the Victorian era. His notable works Bleak House, David Copperfield, Great Expectations, Oliver Twist, Dombey and Son, Little Dorrit, A Christmas Carol, The mystry of Edwin Drood, Hard Times and A Tall of Two Cities.
+            </P> <p>Charles Dickens was very popular during his life time. He was from a middle class family. His grandpa had been a domestic servant and his father was a clerk in the Navy Pay & Account office. </p>
+            <ul>
+                <li>Language: <span>English</span></li>
+                <li>Paperback: <span>386 pages</span></li>
+              <li>Available: <span>in stock</span></li>
+              <li>Item Weight: <span>603g</span></li>
+              <li>Dimensions: <span>13.97 x 2.67 x 21.59 cm</span></li>
+              <li>Shipping Area: <span>All over the India</span></li>
+              <li>Shipping Fee: <span>Free</span></li>
+            </ul>
+          </div>
+
+          <div class = "purchase-info">
+            <input type = "number" min = "0" value = "1" max="6">
+            <button type = "button" class = "btn" onclick="alert('Item added to Shopping Cart');">
+              Add to Cart <i class = "fas fa-shopping-cart"></i>
+            </button>
+            <button type = "button" class = "btn" >Buy Now</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <center><hr size="3.5" width="75%" color="black">  </center>
+
+ {{>footer}}
+
+  </body>
+</html>
